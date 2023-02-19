@@ -23,7 +23,7 @@ The following five sampling techniques were used in this project:
 
 The following table displays the accuracies of five distinct machine learning models for each sampling technique. All models use a balanced version of the original unbalanced dataset:
 
-[Screenshot][SCREEN.png]
+![Screenshot][SCREEN.png]
 
 We can draw the conclusion from the above results that **Cluster Sampling** performs the best on all five models. Simple random sampling performs the worst on all five models. The other sampling techniques have varying performance depending on the model. The model which gives the best accuracy for all 5 samples is Decision Tree.
 
