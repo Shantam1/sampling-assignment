@@ -25,7 +25,7 @@ The following table displays the accuracies of five distinct machine learning mo
 
 ![Screenshot](SCREEN.png)
 
-We can draw the conclusion from the above results that **Cluster Sampling** performs the best on all five models. Simple random sampling performs the worst on all five models. The other sampling techniques have varying performance depending on the model. The model which gives the best accuracy for all 5 samples is Decision Tree.
+We can draw the conclusion from the above results that **Cluster Sampling** performs the best on all five models. Simple random sampling performs the worst on all five models. The other sampling techniques have varying performance depending on the model. The model which gives the best accuracy for all 5 samples is Random Forrest Classifier.
 
 ## Conclusion
 
